@@ -11,7 +11,7 @@ Crie uma classe chamada televisão que siga os requisitos a seguir.
 - Possua dois métodos, um para diminuir o canal atual e outro para aumentar o canal sintonizado.
 - Instancie uma tv e teste as trocas de canal.
 
-## [x] Atividade 1
+## - [x] Atividade 1
 
 ### Roteiro de prática
 
@@ -24,6 +24,6 @@ Execute as seguintes etapas para resolução do pedido.
 - Defina os métodos para ir para o canal superior e para o canal inferior.
 - Crie dois objetos de televisão e teste a subida e a descida dos canais.
 
-## [ ] Atividade 2
+## - [x] Atividade 2
 
 Modifique a classe Televisão criada a partir do roteiro de prática de forma que, se pedirmos para mudar o canal para baixo, além do mínimo, ela vá para o canal máximo. Se mudarmos para cima, além do canal máximo, que volte ao canal mínimo.
