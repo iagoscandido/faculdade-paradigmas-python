@@ -1,4 +1,4 @@
-# Faculdade - Paradigmas de Linguagens de Programação em Python
+# College - Programming Language Paradigms in Python
 
 ## How to run
 
